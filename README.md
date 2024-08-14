@@ -8,7 +8,7 @@ IKg2p module generated with Pybind11
 
 ```bash
 git clone https://github.com/wolfgitpr/PyIKG2p
-git submoudle init
+git submodule init
 git submodule update
 pip install .
 ```
